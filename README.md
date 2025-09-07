@@ -39,7 +39,7 @@ It provides a seamless platform for posting jobs, applying to openings, and mana
 
 
 ## 📂 Folder Structure
-
+~~~
 CareerBridge/
 │-- backend/            # Backend server
 │   │-- controllers/    # Route logic
