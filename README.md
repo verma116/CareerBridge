@@ -1,11 +1,10 @@
----
 
 # CareerBridge
 
 CareerBridge is a full-stack **job portal application** that connects job seekers with employers.
 It provides a seamless platform for posting jobs, applying to openings, and managing career opportunities.
 
----
+
 
 ## 🚀 Features
 
@@ -16,7 +15,7 @@ It provides a seamless platform for posting jobs, applying to openings, and mana
 * 🗄 **Database Integration** – persistent data storage with MongoDB
 * ⚡ **REST API** – modular backend built with Express
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -38,11 +37,9 @@ It provides a seamless platform for posting jobs, applying to openings, and mana
 * Git & GitHub for version control
 * Postman for API testing
 
----
 
 ## 📂 Folder Structure
 
-```
 CareerBridge/
 │-- backend/            # Backend server
 │   │-- controllers/    # Route logic
@@ -59,7 +56,6 @@ CareerBridge/
 │-- README.md           # Project documentation
 ```
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -107,22 +103,18 @@ npm start
 
 The frontend will run on `http://localhost:3000` and backend on `http://localhost:5000`.
 
----
 
 ## 📸 Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc4b2212-5f04-42f5-a4fa-637e75f74d73" />
 
----
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc4b2212-5f04-42f5-a4fa-637e75f74d73" />
----
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ba22b8c-cf5e-4bc5-af05-48ead3295324" />
----
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/590395a0-1813-43ce-bf6e-ca01477792db" />
 
----
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d302ed0-ff58-489f-9e7a-b8e0b9e6a606" />
 
----
 
 
 
