@@ -55,7 +55,7 @@ CareerBridge/
 │-- .gitattributes
 │-- README.md           # Project documentation
 ```
-
+---
 
 ## ⚙️ Installation & Setup
 
