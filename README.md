@@ -39,8 +39,9 @@ It provides a seamless platform for posting jobs, applying to openings, and mana
 
 
 ## 📂 Folder Structure
-~~~
+
 CareerBridge/
+```
 │-- backend/            # Backend server
 │   │-- controllers/    # Route logic
 │   │-- database/       # DB connection
@@ -55,7 +56,7 @@ CareerBridge/
 │-- .gitattributes
 │-- README.md           # Project documentation
 ```
----
+
 
 ## ⚙️ Installation & Setup
 
@@ -105,18 +106,18 @@ The frontend will run on `http://localhost:3000` and backend on `http://localhos
 
 
 ## 📸 Screenshots
+
+## 1. Register Page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc4b2212-5f04-42f5-a4fa-637e75f74d73" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc4b2212-5f04-42f5-a4fa-637e75f74d73" />
-
+## 2. Login Page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ba22b8c-cf5e-4bc5-af05-48ead3295324" />
 
+## 3. Available Jobs Page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/590395a0-1813-43ce-bf6e-ca01477792db" />
 
+## 4. Posting Job Page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d302ed0-ff58-489f-9e7a-b8e0b9e6a606" />
-
-
-
 
 
 
